@@ -14,10 +14,14 @@ A Telegram bot that enhances and upscales images using the **Real-ESRGAN v2** mo
 
 ## 📸 Sample Output
 
+Click on the links below to view the before/after images:
+
 | Input (Low Quality) | Output (Upscaled) |
 |:---:|:---:|
-| ![Low 1](https://raw.githubusercontent.com/Ahmad-Cyber-prince/telegram-ai-upscale-bot/main/sample_images/low_1.jpg) | ![High 1](https://raw.githubusercontent.com/Ahmad-Cyber-prince/telegram-ai-upscale-bot/main/sample_images/high_1.jpg) |
-| ![Low 2](https://raw.githubusercontent.com/Ahmad-Cyber-prince/telegram-ai-upscale-bot/main/sample_images/low_2.jpg) | ![High 2](https://raw.githubusercontent.com/Ahmad-Cyber-prince/telegram-ai-upscale-bot/main/sample_images/high_2.jpg) |
+| [📷 View Low Quality 1](https://cdn.imgurl.ir/uploads/w823609_msg66888398-107393.jpg) | [📷 View High Quality 1](https://cdn.imgurl.ir/uploads/m650476_upscalemedia-transformed.jpeg) |
+| [📷 View Low Quality 2](https://cdn.imgurl.ir/uploads/j329988_msg41487841-107395.jpg) | [📷 View High Quality 2](https://cdn.imgurl.ir/uploads/b692699_upscalemedia-transformed_2.jpeg) |
+
+> **Note:** Clicking on each link will open the image in a new tab.
 
 ## 🛠️ Prerequisites
 
