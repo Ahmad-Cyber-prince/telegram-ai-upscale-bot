@@ -16,10 +16,8 @@ A Telegram bot that enhances and upscales images using the **Real-ESRGAN v2** mo
 
 | Input (Low Quality) | Output (Upscaled) |
 |:---:|:---:|
-| ![Low 1](https://cdn.imgurl.ir/uploads/w823609_msg66888398-107393.jpg) | ![High 1](https://cdn.imgurl.ir/uploads/m650476_upscalemedia-transformed.jpeg) |
-| ![Low 2](https://cdn.imgurl.ir/uploads/j329988_msg41487841-107395.jpg) | ![High 2](https://cdn.imgurl.ir/uploads/b692699_upscalemedia-transformed_2.jpeg) |
-
-> **Note:** If images don't load, your browser or GitHub may block the image host. You can replace these links with your own hosted images.
+| ![Low 1](https://raw.githubusercontent.com/Ahmad-Cyber-prince/telegram-ai-upscale-bot/main/sample_images/low_1.jpg) | ![High 1](https://raw.githubusercontent.com/Ahmad-Cyber-prince/telegram-ai-upscale-bot/main/sample_images/high_1.jpg) |
+| ![Low 2](https://raw.githubusercontent.com/Ahmad-Cyber-prince/telegram-ai-upscale-bot/main/sample_images/low_2.jpg) | ![High 2](https://raw.githubusercontent.com/Ahmad-Cyber-prince/telegram-ai-upscale-bot/main/sample_images/high_2.jpg) |
 
 ## 🛠️ Prerequisites
 
@@ -31,7 +29,7 @@ A Telegram bot that enhances and upscales images using the **Real-ESRGAN v2** mo
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/telegram-ai-upscale-bot.git
+git clone https://github.com/Ahmad-Cyber-prince/telegram-ai-upscale-bot.git
 cd telegram-ai-upscale-bot
 
 # 2. Create a virtual environment (Recommended)
