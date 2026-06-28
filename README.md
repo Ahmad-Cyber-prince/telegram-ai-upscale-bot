@@ -16,8 +16,10 @@ A Telegram bot that enhances and upscales images using the **Real-ESRGAN v2** mo
 
 | Input (Low Quality) | Output (Upscaled) |
 |:---:|:---:|
-| ![Low 1](sample_images/low_1.jpg) | ![High 1](sample_images/high_1.jpg) |
-| ![Low 2](sample_images/low_2.jpg) | ![High 2](sample_images/high_2.jpg) |
+| ![Low 1](https://cdn.imgurl.ir/uploads/w823609_msg66888398-107393.jpg) | ![High 1](https://cdn.imgurl.ir/uploads/m650476_upscalemedia-transformed.jpeg) |
+| ![Low 2](https://cdn.imgurl.ir/uploads/j329988_msg41487841-107395.jpg) | ![High 2](https://cdn.imgurl.ir/uploads/b692699_upscalemedia-transformed_2.jpeg) |
+
+> **Note:** If images don't load, your browser or GitHub may block the image host. You can replace these links with your own hosted images.
 
 ## 🛠️ Prerequisites
 
@@ -26,8 +28,6 @@ A Telegram bot that enhances and upscales images using the **Real-ESRGAN v2** mo
 - A Replicate API Token (Sign up at [Replicate](https://replicate.com) and add at least $1 credit to your account).
 
 ## 📦 Installation & Setup
-
-Follow these steps to run the bot on your server:
 
 ```bash
 # 1. Clone the repository
